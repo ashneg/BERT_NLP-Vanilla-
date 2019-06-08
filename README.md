@@ -7,3 +7,5 @@ Dataset available at: https://www.kaggle.com/maxjeblick/bert-pretrained-models
 Accuracy : 93%
 
 Parameters are tunable according to the requirements
+
+# Check the above machine_learning repoitory for more
